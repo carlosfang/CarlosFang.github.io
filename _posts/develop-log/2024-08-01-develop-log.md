@@ -65,6 +65,12 @@ zset 按时间大小排序，越早申请时间越小，越排在前面。 zset 
 
 写了一个　ws 的简单服务，如果对 websocket 还没真正用过。要了解一下 websocket 协议的内容才行。 
 
+在了解 websocket 时，找到了一个学习的 blog c++后端开发的，记录一下：
+
+> [https://github.com/0voice/cpp_backend_awsome_blog/tree/main](https://github.com/0voice/cpp_backend_awsome_blog/tree/main)
+
+> [【NO.23】一篇文章彻底搞懂websocket协议的原理与应用（一）](https://github.com/0voice/cpp_backend_awsome_blog/blob/main/%E3%80%90NO.23%E3%80%91%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%E5%BD%BB%E5%BA%95%E6%90%9E%E6%87%82websocket%E5%8D%8F%E8%AE%AE%E7%9A%84%E5%8E%9F%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8%EF%BC%88%E4%B8%80%EF%BC%89.md)
+
 
 
 
